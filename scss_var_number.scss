@@ -1,0 +1,78 @@
+// === Global === //
+$number-null: 0;
+$number-2px: 2px;
+$number-4px: 4px;
+$number-8px: 8px;
+$number-10px: 10px;
+$number-12px: 12px;
+$number-14px: 14px;
+$number-16px: 16px;
+$number-18px: 18px;
+$number-20px: 20px;
+$number-24px: 24px;
+$number-28px: 28px;
+$number-32px: 32px;
+$number-40px: 40px;
+$number-44px: 44px;
+$number-48px: 48px;
+$number-52px: 52px;
+$number-56px: 56px;
+$number-64px: 64px;
+$number-72px: 72px;
+$number-80px: 80px;
+$number-96px: 96px;
+$number-128px: 128px;
+$number-999px: 999px;
+
+// ========== Alias ========== //
+// ----- Radius ----- //
+$radius-sharp: $number-null;
+$radius-rounded-4: $number-4px;
+$radius-rounded-8: $number-8px;
+$radius-rounded-12: $number-12px;
+$radius-rounded-16: $number-16px;
+$radius-rounded-24: $number-24px;
+$radius-pill: $number-999px;
+
+// Component //
+$radius-comp-button: $radius-rounded-8;
+$radius-comp-input: $radius-rounded-8;
+$radius-comp-tag-default: $radius-rounded-8;
+$radius-comp-tag-pill: $radius-pill;
+
+// ----- Space -----//
+// Inset //
+$space-inset-2px: $number-2px;
+$space-inset-4px: $number-4px;
+$space-inset-8px: $number-8px;
+$space-inset-10px: $number-10px;
+$space-inset-12px: $number-12px;
+$space-inset-16px: $number-16px;
+$space-inset-18px: $number-18px;
+$space-inset-20px: $number-20px;
+$space-inset-24px: $number-24px;
+$space-inset-32px: $number-32px;
+$space-inset-40px: $number-40px;
+$space-inset-44px: $number-44px;
+$space-inset-48px: $number-48px;
+$space-inset-52px: $number-52px;
+$space-inset-56px: $number-56px;
+$space-inset-64px: $number-64px;
+
+// Gap //
+$gap-2px: $number-2px;
+$gap-4px: $number-4px;
+$gap-8px: $number-8px;
+$gap-10px: $number-10px;
+$gap-12px: $number-12px;
+$gap-16px: $number-16px;
+$gap-18px: $number-18px;
+$gap-20px: $number-20px;
+$gap-24px: $number-24px;
+$gap-32px: $number-32px;
+$gap-40px: $number-40px;
+$gap-44px: $number-44px;
+$gap-48px: $number-48px;
+$gap-52px: $number-52px;
+$gap-56px: $number-56px;
+$gap-64px: $number-64px;
